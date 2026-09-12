@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Nehi Patel 👋</h1>
+<h1 align="center">Hey, I'm Nehi Patel 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI%2FML+%2B+Full+Stack+Developer;Building+AI-powered+products+that+ship;ASP.NET+Core+%7C+Next.js+%7C+Python+%7C+Computer+Vision;M.E.+CSE+Student+%40+L.D.+College+of+Engineering" alt="Typing SVG" />
@@ -117,24 +117,26 @@ Automated meeting handling and processing bot
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nehi2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehi2004&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-ten-sable-26.vercel.app/api?username=nehi2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-ten-sable-26.vercel.app/api/top-langs/?username=nehi2004&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehi2004&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
+<!-- Trophy widget removed for now — re-add once github-profile-trophy-inky-tau.vercel.app is fixed:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nehi2004&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy-inky-tau.vercel.app/?username=nehi2004&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
+-->
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nehi-patel-9b95832a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nehipatel2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
