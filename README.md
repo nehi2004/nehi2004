@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nehi Patel 👋</h1>
+<h1 align="center"> Hey, I'm Nehi Patel 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI%2FML+%2B+Full+Stack+Developer;Building+AI-powered+products+that+ship;ASP.NET+Core+%7C+Next.js+%7C+Python+%7C+Computer+Vision;M.E.+CSE+Student+%40+L.D.+College+of+Engineering" alt="Typing SVG" />
