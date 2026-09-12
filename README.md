@@ -81,7 +81,7 @@ AI Calendar, Chat Assistant & Meeting Automation System
 </td>
 <td width="50%" valign="top">
 
-**🤟 [UniSign]**
+**🤟 UniSign**
 Gujarati Sign Language Learning & Translation App
 
 - ML-driven sign recognition for image & live-camera input
